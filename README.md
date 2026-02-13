@@ -40,8 +40,8 @@ RAIDWatch_Handbuch_Manual_DE-EN_v1.01.pdf
 
 - UGREEN NAS (UGOS Pro)
 - Bash
-- Für MD RAID: `mdadm` (empfohlen, für beste Erkennung/Bay-Mapping)
-- Für Mailversand: `python3` muss verfügbar sein
+- Für MD RAID: `mdadm` (Vorinstalliert in UGOS Pro)
+- Für Mailversand: `python3` (Vorinstalliert in UGOS Pro)
 
 ## Installation (Quickstart)
 
