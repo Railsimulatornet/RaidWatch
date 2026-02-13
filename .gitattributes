@@ -1,0 +1,13 @@
+﻿* text=auto
+
+*.sh  text eol=lf
+*.env text eol=lf
+*.md  text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.zip binary
