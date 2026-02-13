@@ -1,0 +1,10 @@
+# RaidWatch - Artefakte (Logs/State)
+raidwatch-logs/
+*.log
+*.pid
+*_state.env
+*.tmp
+
+# Keine Word-Dateien im Repo
+*.docx
+*.docx
