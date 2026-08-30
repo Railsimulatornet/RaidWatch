@@ -82,4 +82,4 @@ Alle Einstellungen stehen in `raidwatch/raidwatch.env` (SMTP, Empfänger, Checks
 
 ## Version
 
-- v1.01
+- v1.20
